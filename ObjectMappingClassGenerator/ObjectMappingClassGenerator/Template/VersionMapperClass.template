@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ObjectMappingClassGenerator.VersionManager
+{
+    public partial class VersionMapperClass
+    {
+		public @Model.DestinationClassType VersionMapped@Model.SourceClassType(@Model.SourceClassType obj@Model.SourceClassType)
+		{
+			
+		}
+    }
+}
